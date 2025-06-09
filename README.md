@@ -1,4 +1,4 @@
-# spaceship-titanic
+# spaceship-titanic (WIP)
 
 This project uses machine learning to determine whether a passenger was transported to another dimension, based on the Kaggle competition found at [Spaceship Titanic on Kaggle](https://www.kaggle.com/competitions/spaceship-titanic).
 
@@ -10,6 +10,12 @@ This project uses machine learning to determine whether a passenger was transpor
 
 ## About
 This repository contains code and resources for the Spaceship Titanic Kaggle competition. The goal is to predict which passengers were transported to an alternate dimension using passenger data. The project leverages Python and data science libraries for data analysis, feature engineering, and model building.
+
+Technologies used include:
+- **Python (Pandas, NumPy, Scikit-learn)**
+- **Jupyter Notebook**
+- **Data visualization (Seaborn, Matplotlib)**
+- **Feature engineering + model tuning**
 
 ## Setup
 1. **Clone the repository:**
